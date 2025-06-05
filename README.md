@@ -36,6 +36,7 @@ Accurately estimating the price of a laptop based on its specifications can help
 ## Files Included
 
 - `Regression_Laptop_Price_Prediction.ipynb`: Main notebook containing the full code and analysis
+- Dataset: `laptop_price_clean.csv`
 
 ## How to Run
 
